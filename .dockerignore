@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+.DS_Store
+.env
+chroma_db/
+*.md
+!requirements.txt
+.pytest_cache/
+.mypy_cache/
+node_modules/
